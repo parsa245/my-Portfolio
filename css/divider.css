@@ -1,0 +1,10 @@
+.divider{
+    background-color: rgb(234, 235, 230);
+    height: 60px;
+}
+#info{
+    display: flex;
+    justify-content: space-between;
+    /* font-family: 'Proza Libre', sans-serif; */
+    font-family: 'Proza Libre', sans-serif;
+}

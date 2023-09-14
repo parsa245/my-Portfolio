@@ -1,0 +1,12 @@
+@font-face {
+    font-family: parsa;
+    src: url("../fonts/MuseoModerno-Italic-VariableFont_wght.ttf") format("truetype");
+}
+.footer{
+    background-color: rgb(235, 234, 223);
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    font-family: parsa;
+
+}
