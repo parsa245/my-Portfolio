@@ -1,0 +1,14 @@
+.text-header{
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+#header-div{
+    background-color: rgb(37, 53, 39);
+    color: white;
+    font-family: 'Proza Libre', sans-serif;
+    height: 800px;
+}
+.imageHeader{
+    width:90%;
+    height: 450px;
+}
